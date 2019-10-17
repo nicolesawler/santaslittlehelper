@@ -1,0 +1,93 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17-Oct-2019, 12:14:51 PM
+    Author     : nicolesawler
+*/
+
+/* 
+  Full Screen Desktops
+*/
+
+@media (min-width: 1501px) {
+  
+    .aClass{
+        
+    }
+    .bClass{
+        
+    }
+  
+}
+
+/* 
+  Desktops
+*/
+
+@media (min-width: 1281px) and (max-width: 1500px) {
+  
+
+  
+}
+
+/* 
+  Laptops, Desktops
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+
+  
+}
+
+/* 
+  Tablets, Ipads (portrait)
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+  
+}
+
+/* 
+  Tablets, Ipads (landscape)
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+
+  
+}
+
+/* 
+  Low Resolution Tablets, Mobiles (Landscape)
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+
+  
+}
+
+/* 
+  Smartphones Mobiles (Portrait)
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+
+  
+}
+
+/* 
+  Smallest Devices
+*/
+
+@media (max-width: 319px) {
+  
+
+  
+}
